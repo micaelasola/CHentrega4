@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+
+body{
+    font-family: sans-serif;
+    background: #fff;
+}
+
+.title{
+    color: black;
+    text-align: center;
+}
